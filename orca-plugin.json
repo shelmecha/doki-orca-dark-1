@@ -1,0 +1,338 @@
+{
+  "manifestVersion": 2,
+  "id": "doki-terminal-dark-1",
+  "name": "Doki Dark Terminal Themes 1",
+  "version": "0.1.0",
+  "description": "Doki and termcn dark terminal palettes from doki-theme-picker.",
+  "engines": {
+    "orca": ">=1.4.246"
+  },
+  "execution": "data",
+  "contributes": {
+    "terminalThemes": [
+      {
+        "id": "doki-aqua",
+        "title": "Doki Aqua",
+        "path": "terminal/doki-aqua.json"
+      },
+      {
+        "id": "doki-astolfo",
+        "title": "Doki Astolfo",
+        "path": "terminal/doki-astolfo.json"
+      },
+      {
+        "id": "doki-asuna-dark",
+        "title": "Doki Asuna Dark",
+        "path": "terminal/doki-asuna-dark.json"
+      },
+      {
+        "id": "doki-azuki",
+        "title": "Doki Azuki",
+        "path": "terminal/doki-azuki.json"
+      },
+      {
+        "id": "doki-chocola",
+        "title": "Doki Chocola",
+        "path": "terminal/doki-chocola.json"
+      },
+      {
+        "id": "doki-christmas-chocola",
+        "title": "Doki Christmas Chocola",
+        "path": "terminal/doki-christmas-chocola.json"
+      },
+      {
+        "id": "doki-cinnamon",
+        "title": "Doki Cinnamon",
+        "path": "terminal/doki-cinnamon.json"
+      },
+      {
+        "id": "doki-coconut",
+        "title": "Doki Coconut",
+        "path": "terminal/doki-coconut.json"
+      },
+      {
+        "id": "doki-darkness-dark",
+        "title": "Doki Darkness Dark",
+        "path": "terminal/doki-darkness-dark.json"
+      },
+      {
+        "id": "doki-echidna",
+        "title": "Doki Echidna",
+        "path": "terminal/doki-echidna.json"
+      },
+      {
+        "id": "doki-emilia-dark",
+        "title": "Doki Emilia Dark",
+        "path": "terminal/doki-emilia-dark.json"
+      },
+      {
+        "id": "doki-essex",
+        "title": "Doki Essex",
+        "path": "terminal/doki-essex.json"
+      },
+      {
+        "id": "doki-gasai-yuno",
+        "title": "Doki Gasai Yuno",
+        "path": "terminal/doki-gasai-yuno.json"
+      },
+      {
+        "id": "doki-genos",
+        "title": "Doki Genos",
+        "path": "terminal/doki-genos.json"
+      },
+      {
+        "id": "doki-gray",
+        "title": "Doki Gray",
+        "path": "terminal/doki-gray.json"
+      },
+      {
+        "id": "doki-hanekawa-tsubasa",
+        "title": "Doki Hanekawa Tsubasa",
+        "path": "terminal/doki-hanekawa-tsubasa.json"
+      },
+      {
+        "id": "doki-hatsune-miku",
+        "title": "Doki Hatsune Miku",
+        "path": "terminal/doki-hatsune-miku.json"
+      },
+      {
+        "id": "doki-hayase-nagatoro",
+        "title": "Doki Hayase Nagatoro",
+        "path": "terminal/doki-hayase-nagatoro.json"
+      },
+      {
+        "id": "doki-hinata-shoyo",
+        "title": "Doki Hinata Shoyo",
+        "path": "terminal/doki-hinata-shoyo.json"
+      },
+      {
+        "id": "doki-hiro",
+        "title": "Doki Hiro",
+        "path": "terminal/doki-hiro.json"
+      },
+      {
+        "id": "doki-hiro-x-zero-two",
+        "title": "Doki Hiro x Zero Two",
+        "path": "terminal/doki-hiro-x-zero-two.json"
+      },
+      {
+        "id": "doki-ishtar-dark",
+        "title": "Doki Ishtar Dark",
+        "path": "terminal/doki-ishtar-dark.json"
+      },
+      {
+        "id": "doki-jabami-yumeko",
+        "title": "Doki Jabami Yumeko",
+        "path": "terminal/doki-jabami-yumeko.json"
+      },
+      {
+        "id": "doki-jahy",
+        "title": "Doki Jahy",
+        "path": "terminal/doki-jahy.json"
+      },
+      {
+        "id": "doki-kanna",
+        "title": "Doki Kanna",
+        "path": "terminal/doki-kanna.json"
+      },
+      {
+        "id": "doki-katsuragi-misato",
+        "title": "Doki Katsuragi Misato",
+        "path": "terminal/doki-katsuragi-misato.json"
+      },
+      {
+        "id": "doki-kirino",
+        "title": "Doki Kirino",
+        "path": "terminal/doki-kirino.json"
+      },
+      {
+        "id": "doki-konata",
+        "title": "Doki Konata",
+        "path": "terminal/doki-konata.json"
+      },
+      {
+        "id": "doki-mai-dark",
+        "title": "Doki Mai Dark",
+        "path": "terminal/doki-mai-dark.json"
+      },
+      {
+        "id": "doki-maika",
+        "title": "Doki Maika",
+        "path": "terminal/doki-maika.json"
+      },
+      {
+        "id": "doki-makise-kurisu",
+        "title": "Doki Makise Kurisu",
+        "path": "terminal/doki-makise-kurisu.json"
+      },
+      {
+        "id": "doki-maple-dark",
+        "title": "Doki Maple Dark",
+        "path": "terminal/doki-maple-dark.json"
+      },
+      {
+        "id": "doki-megumin",
+        "title": "Doki Megumin",
+        "path": "terminal/doki-megumin.json"
+      },
+      {
+        "id": "doki-miia",
+        "title": "Doki Miia",
+        "path": "terminal/doki-miia.json"
+      },
+      {
+        "id": "doki-mioda-ibuki-dark",
+        "title": "Doki Mioda Ibuki Dark",
+        "path": "terminal/doki-mioda-ibuki-dark.json"
+      },
+      {
+        "id": "doki-misaka-mikoto",
+        "title": "Doki Misaka Mikoto",
+        "path": "terminal/doki-misaka-mikoto.json"
+      },
+      {
+        "id": "doki-monika-dark",
+        "title": "Doki Monika Dark",
+        "path": "terminal/doki-monika-dark.json"
+      },
+      {
+        "id": "doki-nadeshiko",
+        "title": "Doki Nadeshiko",
+        "path": "terminal/doki-nadeshiko.json"
+      },
+      {
+        "id": "doki-nakano-miku",
+        "title": "Doki Nakano Miku",
+        "path": "terminal/doki-nakano-miku.json"
+      },
+      {
+        "id": "doki-nakano-nino",
+        "title": "Doki Nakano Nino",
+        "path": "terminal/doki-nakano-nino.json"
+      },
+      {
+        "id": "doki-nakano-yotsuba",
+        "title": "Doki Nakano Yotsuba",
+        "path": "terminal/doki-nakano-yotsuba.json"
+      },
+      {
+        "id": "doki-natsuki-dark",
+        "title": "Doki Natsuki Dark",
+        "path": "terminal/doki-natsuki-dark.json"
+      },
+      {
+        "id": "doki-ram",
+        "title": "Doki Ram",
+        "path": "terminal/doki-ram.json"
+      },
+      {
+        "id": "doki-raphtalia",
+        "title": "Doki Raphtalia",
+        "path": "terminal/doki-raphtalia.json"
+      },
+      {
+        "id": "doki-rei",
+        "title": "Doki Rei",
+        "path": "terminal/doki-rei.json"
+      },
+      {
+        "id": "doki-rem",
+        "title": "Doki Rem",
+        "path": "terminal/doki-rem.json"
+      },
+      {
+        "id": "doki-rias-crimson",
+        "title": "Doki Rias Crimson",
+        "path": "terminal/doki-rias-crimson.json"
+      },
+      {
+        "id": "doki-rias-onyx",
+        "title": "Doki Rias Onyx",
+        "path": "terminal/doki-rias-onyx.json"
+      },
+      {
+        "id": "doki-rimuru-tempest",
+        "title": "Doki Rimuru Tempest",
+        "path": "terminal/doki-rimuru-tempest.json"
+      },
+      {
+        "id": "doki-rory-mercury",
+        "title": "Doki Rory Mercury",
+        "path": "terminal/doki-rory-mercury.json"
+      },
+      {
+        "id": "doki-ryuko-dark",
+        "title": "Doki Ryuko Dark",
+        "path": "terminal/doki-ryuko-dark.json"
+      },
+      {
+        "id": "doki-sagiri",
+        "title": "Doki Sagiri",
+        "path": "terminal/doki-sagiri.json"
+      },
+      {
+        "id": "doki-satsuki-dark",
+        "title": "Doki Satsuki Dark",
+        "path": "terminal/doki-satsuki-dark.json"
+      },
+      {
+        "id": "doki-sayori-dark",
+        "title": "Doki Sayori Dark",
+        "path": "terminal/doki-sayori-dark.json"
+      },
+      {
+        "id": "doki-shima-rin",
+        "title": "Doki Shima Rin",
+        "path": "terminal/doki-shima-rin.json"
+      },
+      {
+        "id": "doki-sonoda-umi",
+        "title": "Doki Sonoda Umi",
+        "path": "terminal/doki-sonoda-umi.json"
+      },
+      {
+        "id": "doki-takanashi-rikka",
+        "title": "Doki Takanashi Rikka",
+        "path": "terminal/doki-takanashi-rikka.json"
+      },
+      {
+        "id": "doki-tohsaka-rin",
+        "title": "Doki Tohsaka Rin",
+        "path": "terminal/doki-tohsaka-rin.json"
+      },
+      {
+        "id": "doki-vanilla",
+        "title": "Doki Vanilla",
+        "path": "terminal/doki-vanilla.json"
+      },
+      {
+        "id": "doki-yukihira-soma",
+        "title": "Doki Yukihira Soma",
+        "path": "terminal/doki-yukihira-soma.json"
+      },
+      {
+        "id": "doki-yukinoshita-yukino",
+        "title": "Doki Yukinoshita Yukino",
+        "path": "terminal/doki-yukinoshita-yukino.json"
+      },
+      {
+        "id": "doki-yuri-dark",
+        "title": "Doki Yuri Dark",
+        "path": "terminal/doki-yuri-dark.json"
+      },
+      {
+        "id": "doki-zero-two-dark-obsidian",
+        "title": "Doki Zero Two Dark Obsidian",
+        "path": "terminal/doki-zero-two-dark-obsidian.json"
+      },
+      {
+        "id": "doki-zero-two-dark-rose",
+        "title": "Doki Zero Two Dark Rose",
+        "path": "terminal/doki-zero-two-dark-rose.json"
+      }
+    ]
+  },
+  "license": "MIT",
+  "author": "shelmecha",
+  "repository": "https://github.com/shelmecha/doki-orca-dark-1"
+}
